@@ -1,0 +1,33 @@
+# === Sublime Text ===
+*.sublime-project
+*.sublime-workspace
+
+# Folders
+.sublime/
+
+# === PHP / Composer ===
+vendor/            # Répertoire généré par Composer
+composer.lock      # Optionnel, selon la politique de versionnement
+
+# === Environnements / Config ===
+.env
+.env.*             # Variables d'environnement (ex: .env.local)
+
+# === IDE / OS ===
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# === Logs / Caches ===
+*.log
+*.cache
+cache/
+logs/
+tmp/
+
+# === Tests / Coverage ===
+coverage/
+.phpunit.result.cache
+
+# === Misc ===
+*.bak
+*.swp

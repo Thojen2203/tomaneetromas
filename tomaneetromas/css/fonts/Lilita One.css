@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+h1, h2, h3, h4, h5, h6, p, a, th, td, label, li, input, textarea, button, option, optgroup, select, dialog {
+  font-family: "Lilita One", system-ui;
+}

@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+h1, h2, h3, h4, h5, h6, p, a, th, td, label, li, input, textarea, button, option, optgroup, select, dialog {
+  font-family: "Manrope", system-ui;
+}
